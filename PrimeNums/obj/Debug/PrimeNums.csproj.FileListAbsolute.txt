@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\bin\Debug\PrimeNums.exe.config
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\bin\Debug\PrimeNums.exe
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\bin\Debug\PrimeNums.pdb
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums_MarkupCompile.cache
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums_MarkupCompile.lref
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.g.resources
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.Properties.Resources.resources
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.exe
+C:\Users\Asus\Desktop\практика\3\PrimeNums\PrimeNums\obj\Debug\PrimeNums.pdb
