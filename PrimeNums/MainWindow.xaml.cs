@@ -33,13 +33,15 @@ namespace PrimeNums
                 int a = int.Parse(TBa.Text);
                 int b = int.Parse(TBb.Text);
 
-                if (isPrime(N)) LblOut.Content = "N - простое число";
+                Num n = new Num(N);
+
+                if (n.isPrime()) LblOut.Content = "N - простое число";
                     else LblOut.Content = "N - составное число";
 
                 int summ = 0;
                 for (int i = a; i <= b; i++)
                 {
-                    if (!isPrime(i)) summ += i;
+                    if (!n.isPrime(i)) summ += i;
                 }
                 LblOut.Content += "\nСумма составных от a до b = " + summ;
 
@@ -49,13 +51,32 @@ namespace PrimeNums
                 LblOut.Content = "Неверные данные";
             }
         }
-
-        public bool isPrime(int num)
+    }
+    public class Num
+    {
+        public int num { get; set; }
+        public Num(int n)
+        {
+            num = n;
+        }
+        public bool isPrime()
         {
             double m = num / 2;
             for (int i = 2; i <= m; i++)
             {
                 if (num % i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        public bool isPrime(int n)
+        {
+            double m = n / 2;
+            for (int i = 2; i <= m; i++)
+            {
+                if (n % i == 0)
                 {
                     return false;
                 }
